@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @farhadkazemian
 - 👀 I’m interested in Block-chain, AI, CyberSec & Cognitive Sciences 
 - 🌱 I’m currently learning New Ideas On AI  
-- 💞️ I’m looking to collaborate on Token-Echonomy, AI based Projects
+- 💞️ I’m looking to collaborate on Token-Economy, AI based Projects
 - 📫 Reach me info@itvisa.de
 - www.itvisa.de
 
